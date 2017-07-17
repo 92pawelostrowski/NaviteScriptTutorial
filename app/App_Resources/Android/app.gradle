@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "__PACKAGE__" 
+    applicationId = "org.nativescript.FirstApp" 
     
     //override supported platforms
     // ndk {
